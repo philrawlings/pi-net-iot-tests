@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiBlinkyTest", "PiBlinkyTest\PiBlinkyTest.csproj", "{871AC8CF-3324-4450-9A8C-CD17DFC50BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{871AC8CF-3324-4450-9A8C-CD17DFC50BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871AC8CF-3324-4450-9A8C-CD17DFC50BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871AC8CF-3324-4450-9A8C-CD17DFC50BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871AC8CF-3324-4450-9A8C-CD17DFC50BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3839B9D2-6B1B-4DFE-9030-706425A14935}
+	EndGlobalSection
+EndGlobal
